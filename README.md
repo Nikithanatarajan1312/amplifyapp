@@ -1,4 +1,4 @@
 # amplifyapp
 CHAT-APPLICATION
 
-Check the master for code.
+Check the master branch for code.
